@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mental_health_tracker/widgets/moodentry_form.dart';
+import 'package:mental_health_tracker/screens/moodentry_form.dart';
 
 class ItemHomepage {
   final String name;
